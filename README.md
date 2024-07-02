@@ -1,6 +1,6 @@
 # Police Dataset Analysis
 
-This Jupyter Notebook contains an analysis of a police dataset using Pandas DataFrames.
+This Jupyter Notebook contains an analysis using Pandas DataFrames of a police dataset containing information from January 2005 to December 2012.
 
 ## Steps:
 
